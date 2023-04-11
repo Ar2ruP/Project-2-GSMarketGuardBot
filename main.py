@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('5708418251:AAGDY-47o-ytYu4qjZ95eD2LFAyecMNLR8g')
+bot = telebot.TeleBot('Telegram API')
 
 
 @bot.message_handler(commands=['start'])
